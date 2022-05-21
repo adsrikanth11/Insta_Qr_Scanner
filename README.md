@@ -1,1 +1,1 @@
-#Insta QR Code Scanner
+Insta QR Code Scanner
